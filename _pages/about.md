@@ -19,7 +19,7 @@ redirect_from:
 
 
 
-Hi! I'm Weizhuo Li, currently a 3rd-year master in Electronic Information - Computer Technology at the Guangzhou Research Institute of Xidian University, under the supervision of Prof. Yue Xi. I received the B.S. degree from North China Electric Power University and gained recommended admission to Xidian University for my master’s degree. My research interest includes computer vision, weakly supervised learning and 3D object navigation. 
+Hi! I'm Weizhuo Li (李玮琢), currently a 3rd-year master in Electronic Information - Computer Technology at the Guangzhou Research Institute of Xidian University, under the supervision of Prof. Yue Xi. I received the B.S. degree from North China Electric Power University and gained recommended admission to Xidian University for my master’s degree. My research interest includes computer vision, weakly supervised learning and 3D object navigation. 
 
 
 
