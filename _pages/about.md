@@ -24,6 +24,7 @@ Hi! I'm Weizhuo Li (李玮琢), currently a 3rd-year master in Electronic Inform
 
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 Our paper "PointSR++" on point-supervised rotated object detection is accepted by IEEE TCSVT..
 - *2025.10*: &nbsp;🎉🎉 I am awarded the 2025 National Scholarship and Outstanding Graduate Student.
 - *2025.09*: &nbsp;🎉🎉 Our national invention patent is approved. 
 - *2025.02*: &nbsp;🎉🎉 Our paper "PointSR" on point-supervised object detection is accepted by CVPR 2025.
@@ -32,6 +33,20 @@ Hi! I'm Weizhuo Li (李玮琢), currently a 3rd-year master in Electronic Inform
 - *2023.06*: &nbsp;🎉🎉 I am awarded the Outstanding Graduate in North China Electric Power University.
 
 # 📝 Publications 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2026</div><img src='images/pointsr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PointSR: Self-Regularized Point Supervision for Drone-View Object Detection](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_PointSR_Self-Regularized_Point_Supervision_for_Drone-View_Object_Detection_CVPR_2025_paper.pdf)
+
+**Weizhuo Li**, Yue Xi, Wenjing Jia, Zehao Zhang, Fei Li, Xiangzeng Liu, Qiguang Miao.
+
+
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/pointsr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
