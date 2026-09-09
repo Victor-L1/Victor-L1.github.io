@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Weizhuo Li"
   avatar           : "images/picture.jpg"
-  bio              : "Guangzhou Research Institute, Xidian University"
+  bio              : "School of Computer Science and Technology, University of Science and Technology of China"
   location         : "Guangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Wdk00HoAAAAJ"
-  email            : "liweizhuo@stu.xidian.edu.cn"
+  email            : "wzli@eitech.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
